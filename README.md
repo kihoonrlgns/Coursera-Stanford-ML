@@ -1,2 +1,2 @@
-# Machine-Learning-Stanford-Coursera
-Machine Learning
+# Machine Learning
+
